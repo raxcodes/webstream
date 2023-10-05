@@ -1,6 +1,6 @@
 const Actors = () => {
   return (
-    <div>Actors</div>
+    <h1>Actors</h1>
   )
 }
 
